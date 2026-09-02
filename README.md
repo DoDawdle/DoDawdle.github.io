@@ -9,8 +9,6 @@
     
     <h2>https://github.com/DoDawdle</h2>
 
-    <h3>  Your biography here. </h3>
-    
-    <!-- requirements 2-9 go here -->
+   
 
 </main>
