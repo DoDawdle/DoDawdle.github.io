@@ -10,14 +10,7 @@
     <h2>https://github.com/DoDawdle</h2>
 
     <h3>  Your biography here. </h3>
-    <nav>
-    <ul>
-        <li>Education</li>
-        <li>Experience</li>
-        <li>Skills</li>
-        <li>Projects</li>
-    </ul>
-</nav>
+    
     <!-- requirements 2-9 go here -->
 
 </main>
