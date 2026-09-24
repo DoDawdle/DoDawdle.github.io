@@ -34,6 +34,9 @@ main h3 {
 #list {
     line-height: 1.5em;
 }
+html {
+    background-image: linear-gradient(to bottom, white 0%, #facd8a 100%);
+}
 footer p.copyright {
     text-align: center;
     font-size: 80%;
