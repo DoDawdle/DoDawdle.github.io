@@ -40,7 +40,7 @@ header h2 {
 }
 
 main h3 {
-    margin-top: 3em;
+    
     font-size: 105%;
     margin: 3em 2em 1.5em;
     border: 5px double blue;
@@ -60,6 +60,6 @@ footer p.copyright {
 }
 main nav {
     margin: 1.5em 2em 1.5em;
-    
+
 
 }
