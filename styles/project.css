@@ -33,12 +33,17 @@ header h2 {
     text-indent: 30px;
 }
 
+.left {
+    float: left;
+    margin-right: 20px;
+}
+
 h1, h2, h3, h4 {
     color: maroon;
 }
 
 .shadow {
-    text-shadow: 2px 2px 2px red;
+    text-shadow: 2px 2px 2px rgb(128, 0, 0);
 }
 
 article {
