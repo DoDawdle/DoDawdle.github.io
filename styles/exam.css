@@ -12,7 +12,7 @@ body {
     border-radius: 1em;
     box-shadow: 5px 5px 10px #555;
 
-    background-color: transparent;
+    background-color: white;
     background-image: url("Sammy.jpg");
     background-repeat: repeat-y;
     background-position: right top;
