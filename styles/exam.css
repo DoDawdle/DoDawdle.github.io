@@ -93,8 +93,8 @@ aside {
     width: 18%;
     box-sizing: border-box;
     padding: 1em;
-    background-color: lightgreen;
-    border: 2px solid green;
+    background-color: lightblue (144, 213, 238);
+    border: 2px solid blue;
     box-shadow: 2px 2px 5px gray;
     font-size: 0.85em;
 }
