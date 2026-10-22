@@ -77,7 +77,7 @@ section p {
     font-size: 0.85em;
     line-height: 1.2;
 }
-section p::first-letter {
+#introduction p::first-letter {
     color: purple;
     font-size: 3em;
     font-weight: bold;
