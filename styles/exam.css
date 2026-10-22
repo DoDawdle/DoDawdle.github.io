@@ -43,12 +43,6 @@ main {
     width: 100%;
     color: #222;
 }
-main img {
-    width: 130px;
-    height: auto;
-    float: left;
-    margin: 0 1em 0.5em 0;
-}
 
 main > h1 {
     color: darkgreen;
@@ -77,8 +71,8 @@ section p {
     font-size: 0.85em;
     line-height: 1.2;
 }
-#introduction p::first-letter {
-    color: purple;
+section p::first-letter {
+    color: rgb(17, 138, 203);
     font-size: 3em;
     font-weight: bold;
     font-style: italic;
@@ -98,7 +92,7 @@ aside {
     background-color: lightgreen;
     border: 2px solid green;
     box-shadow: 2px 2px 5px #555;
-    font-size: 0.9em;
+    font-size: 0.em;
     z-index: 100;
 }
 
