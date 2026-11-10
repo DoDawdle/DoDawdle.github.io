@@ -205,13 +205,7 @@ footer {
   text-align: center;
   font-size: .8em;
 }
-@media (max-width: 700px) {
-.menu-button-container { 
 
-    display: flex; 
-
-} 
-}
 
 .menu { 
 
@@ -282,4 +276,10 @@ footer {
     border-bottom: 1px solid #444; 
 
 } 
+@media (max-width: 700px) {
+.menu-button-container { 
 
+    display: flex; 
+
+} 
+}
