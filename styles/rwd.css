@@ -206,7 +206,7 @@ footer {
   font-size: .8em;
 }
 
-
+@media (max-width: 700px) {
 .menu { 
 
     position: absolute; 
@@ -226,6 +226,7 @@ footer {
     align-items: center; 
 
 } 
+}
 
 #menu-toggle ~ .menu li { 
 
@@ -276,7 +277,7 @@ footer {
     border-bottom: 1px solid #444; 
 
 } 
-@media (max-width: 700px) {
+ {
 .menu-button-container { 
 
     display: flex; 
