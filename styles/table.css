@@ -77,18 +77,18 @@ table.third td {
 
 /* Top border */
 table.third thead tr:first-child {
-    border-top: 2px solid orangered;
+    border-top: 2px solid green;
 }
 
 /* Header row borders */
 table.third thead tr:nth-child(2) {
-    border-top: 2px solid orangered;
-    border-bottom: 2px solid orangered;
+    border-top: 2px solid green;
+    border-bottom: 2px solid green;
 }
 
 /* Bottom border */
 table.third tbody tr:last-child {
-    border-bottom: 2px solid orangered;
+    border-bottom: 2px green;
 }
 @media only screen and (max-width: 425px) {
 
