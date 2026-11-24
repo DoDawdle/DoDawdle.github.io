@@ -78,9 +78,9 @@ table.third {
 } 
 
 table.third th, table.third td { 
-
+    padding: 0.7em; 
     border: 2px solid green; 
-
+    border: 2px solid yellow;
 } 
 
 table.third tr:nth-child(odd) {
