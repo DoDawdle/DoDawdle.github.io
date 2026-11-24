@@ -6,32 +6,44 @@
     <title>Document</title>
 </head>
 <body>
+
     <h1>The Test Scores App</h1>
 
-<script src="jsdemo.js"></script>
+    <script src="jsdemo.js"></script>
 
-<h1>The Miles Per Gallon Calculator</h1>
-<script>
-   const
- 
-miles =
- 
-parseInt
-(
-prompt
-("Enter miles driven"));
 
-const gallons = parseInt(prompt("Enter gallons of gas used"));
+    <h1>The Miles Per Gallon Calculator</h1>
 
-const mpg = parseFloat (miles/gallons);
+    <script>
+        const miles = parseInt(prompt("Enter miles driven"));
 
-const html2 = `<p>Miles: ${miles}</p>
+        const gallons = parseInt(prompt("Enter gallons of gas used"));
 
-<p>Gallons: ${gallons}</p>
+        const mpg = parseFloat(miles / gallons);
 
-<p> MPG: ${mpg.toFixed(2)}</p>`;
+        const html2 = `<p>Miles: ${miles}</p>
+        <p>Gallons: ${gallons}</p>
+        <p>MPG: ${mpg.toFixed(2)}</p>`;
 
-document.write(html2);
-</script>
+        document.write(html2);
+    </script>
+
+
+    <h1>The Rectangle Area Calculator</h1>
+
+    <script>
+        const width = parseFloat(prompt("Enter a width of a rectangle"));
+
+        const height = parseFloat(prompt("Enter a height of a rectangle"));
+
+        const area = width * height;
+
+        const html3 = `<p>Width: ${width}</p>
+        <p>Height: ${height}</p>
+        <p>Area: ${area}</p>`;
+
+        document.write(html3);
+    </script>
+
 </body>
 </html>
